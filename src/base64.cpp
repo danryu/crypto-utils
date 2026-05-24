@@ -2,6 +2,8 @@
 #include <cstdint>
 #include <string>
 #include <string_view>
+#include <vector>
+#include <array>
 
 #include "base64.hpp"
 #include "bytes.hpp"
